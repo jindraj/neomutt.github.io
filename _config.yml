@@ -47,6 +47,8 @@ exclude:
 
 
 collections:
+  arch:
+    output: true
   contrib:
     output: true
   dev:
