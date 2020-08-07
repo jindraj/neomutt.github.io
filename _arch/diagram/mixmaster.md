@@ -10,5 +10,6 @@ description: Mixmaster Chain Selection
 {{ page.description }}
 {% include diagram-links.html %}
 
+{:.thumb}
 ![s-dlg-mixmaster](images/s-dlg-mixmaster.svg)
 ![l-dlg-mixmaster](images/l-dlg-mixmaster.svg)

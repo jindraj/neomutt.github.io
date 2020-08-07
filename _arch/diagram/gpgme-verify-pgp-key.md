@@ -10,5 +10,6 @@ description: Pager - GPGME Verify PGP Key
 {{ page.description }}
 {% include diagram-links.html %}
 
+{:.thumb}
 ![s-pager-gpgme-verify-pgp-key](images/s-pager-gpgme-verify-pgp-key.svg)
 ![l-pager-gpgme-verify-pgp-key](images/l-pager-gpgme-verify-pgp-key.svg)

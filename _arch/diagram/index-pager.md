@@ -10,5 +10,6 @@ description: Index + Pager
 {{ page.description }}
 {% include diagram-links.html %}
 
+{:.thumb}
 ![s-dlg-index-pager](images/s-dlg-index-pager.svg)
 ![l-dlg-index-pager](images/l-dlg-index-pager.svg)

@@ -10,5 +10,6 @@ description: Alias Selection
 {{ page.description }}
 {% include diagram-links.html %}
 
+{:.thumb}
 ![s-dlg-alias-selection](images/s-dlg-alias-selection.svg)
 ![l-dlg-alias-selection](images/l-dlg-alias-selection.svg)

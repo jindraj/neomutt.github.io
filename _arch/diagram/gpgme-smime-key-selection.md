@@ -10,5 +10,6 @@ description: GPGME SMIME Key Selection
 {{ page.description }}
 {% include diagram-links.html %}
 
+{:.thumb}
 ![s-dlg-gpgme-smime-key-selection](images/s-dlg-gpgme-smime-key-selection.svg)
 ![l-dlg-gpgme-smime-key-selection](images/l-dlg-gpgme-smime-key-selection.svg)

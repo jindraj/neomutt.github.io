@@ -10,5 +10,6 @@ description: Index + Sidebar
 {{ page.description }}
 {% include diagram-links.html %}
 
+{:.thumb}
 ![s-dlg-index-sidebar](images/s-dlg-index-sidebar.svg)
 ![l-dlg-index-sidebar](images/l-dlg-index-sidebar.svg)

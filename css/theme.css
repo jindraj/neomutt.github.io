@@ -327,3 +327,6 @@ span.donate {
   border-radius: 10px;
 }
 
+.thumb img {
+  width: 256px;
+}

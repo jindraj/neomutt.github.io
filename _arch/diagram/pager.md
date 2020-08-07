@@ -10,5 +10,6 @@ description: Pager
 {{ page.description }}
 {% include diagram-links.html %}
 
+{:.thumb}
 ![s-dlg-pager](images/s-dlg-pager.svg)
 ![l-dlg-pager](images/l-dlg-pager.svg)
