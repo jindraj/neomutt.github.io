@@ -4,6 +4,8 @@ title: News
 
 # {{ page.title }}
 
+Please check the release page for any updates.
+
 {%for post in site.posts %}
     {% unless post.next %}
 ## {{ post.date | date: '%B %Y' }}
